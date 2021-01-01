@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hwany93/react-moive/static/css/main.db827d69.chunk.css",
+    "main.js": "/hwany93/react-moive/static/js/main.421d64f6.chunk.js",
+    "main.js.map": "/hwany93/react-moive/static/js/main.421d64f6.chunk.js.map",
+    "runtime-main.js": "/hwany93/react-moive/static/js/runtime-main.62f1c2f2.js",
+    "runtime-main.js.map": "/hwany93/react-moive/static/js/runtime-main.62f1c2f2.js.map",
+    "static/js/2.da4374dc.chunk.js": "/hwany93/react-moive/static/js/2.da4374dc.chunk.js",
+    "static/js/2.da4374dc.chunk.js.map": "/hwany93/react-moive/static/js/2.da4374dc.chunk.js.map",
+    "index.html": "/hwany93/react-moive/index.html",
+    "static/css/main.db827d69.chunk.css.map": "/hwany93/react-moive/static/css/main.db827d69.chunk.css.map",
+    "static/js/2.da4374dc.chunk.js.LICENSE.txt": "/hwany93/react-moive/static/js/2.da4374dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f1c2f2.js",
+    "static/js/2.da4374dc.chunk.js",
+    "static/css/main.db827d69.chunk.css",
+    "static/js/main.421d64f6.chunk.js"
+  ]
+}
